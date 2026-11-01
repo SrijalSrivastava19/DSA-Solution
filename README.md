@@ -1,4 +1,4 @@
 # DSA Solutions
 
 My solutions to Data Structures and Algorithms
-problems from LeetCode , CodeSpaceand GeeksforGeeks.
+problems from LeetCode , CodeSpace and GeeksforGeeks.
